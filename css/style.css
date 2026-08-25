@@ -159,8 +159,14 @@ a.hero-card:hover{transform:translateY(-4px);border-color:var(--blue)}
 .card:hover::before{opacity:1}
 .card>.ic{width:56px;height:56px;padding:15px;border-radius:16px;background:linear-gradient(140deg,var(--blue-soft),#F8FBFF);border:1px solid #E0E8F6;color:var(--blue);margin-bottom:18px;transition:.25s}
 .card:hover>.ic{background:linear-gradient(135deg,var(--blue),var(--blue-2));border-color:transparent;color:#fff}
-.card>.ic.ghost{position:absolute;right:-16px;bottom:-14px;width:122px;height:122px;padding:0;background:none;border:none;margin:0;color:var(--blue);opacity:.055;transform:rotate(-10deg);pointer-events:none}
-.card:hover>.ic.ghost{background:none;color:var(--blue);opacity:.1;transform:rotate(-4deg) scale(1.04)}
+.card>.ic.ghost{position:absolute;right:-16px;bottom:-14px;width:122px;height:122px;padding:0;background:none;border:none;margin:0;color:var(--blue);opacity:.085;transform:rotate(-10deg);pointer-events:none}
+.card:hover>.ic.ghost{background:none;color:var(--blue);opacity:.13;transform:rotate(-4deg) scale(1.04)}
+/* 진료 안내 섹션 — 중앙정렬 + 상시 배경 데코 */
+.section.care{position:relative;overflow:hidden}
+.care-deco{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.section.care .wrap{position:relative}
+.section.care .card{text-align:center}
+.section.care .card>.ic:not(.ghost){margin-left:auto;margin-right:auto}
 .card.is-link:hover .more{color:var(--accent)}
 .card h3{font-size:21px;margin-bottom:10px}
 .card p{color:var(--ink-2);font-size:16.5px;line-height:1.7;margin:0}
