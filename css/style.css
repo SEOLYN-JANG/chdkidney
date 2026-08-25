@@ -471,6 +471,7 @@ article.prose{display:block}
 @media (max-width:600px){
   .hero-cards,.grid-4,.stats,.split .stats,.steps,.footer-grid{grid-template-columns:1fr}
   .quick-nav{grid-template-columns:repeat(2,1fr)}
+  .quick-nav a:last-child{grid-column:1/-1}
   .brand-text small{display:none}
   .hero-card.is-accent strong{font-size:20px}
 }
