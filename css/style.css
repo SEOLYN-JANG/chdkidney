@@ -163,10 +163,17 @@ a.hero-card:hover{transform:translateY(-4px);border-color:var(--blue)}
 .card:hover>.ic.ghost{background:none;color:var(--blue);opacity:.13;transform:rotate(-4deg) scale(1.04)}
 /* 진료 안내 섹션 — 중앙정렬 + 상시 배경 데코 */
 .section.care{position:relative;overflow:hidden}
-.care-deco{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
-.section.care .wrap{position:relative}
+.section.care::before{content:"";position:absolute;left:-90px;top:-90px;width:300px;height:300px;border-radius:50%;background:#EDF2FB}
+.section.care::after{content:"";position:absolute;right:-110px;bottom:-110px;width:360px;height:360px;border-radius:50%;background:#EDF2FB}
+.care-deco{position:absolute;pointer-events:none;color:#D6E1F3;z-index:0}
+.care-deco.d1{left:10px;top:118px}
+.care-deco.d2{right:26px;top:66px}
+.care-deco.d3{left:44px;bottom:48px}
+.care-deco.d4{right:18px;bottom:66px}
+.section.care .wrap{position:relative;z-index:1}
 .section.care .card{text-align:center}
 .section.care .card>.ic:not(.ghost){margin-left:auto;margin-right:auto}
+@media (max-width:900px){.care-deco.d1,.care-deco.d2,.care-deco.d4{display:none}}
 .card.is-link:hover .more{color:var(--accent)}
 .card h3{font-size:21px;margin-bottom:10px}
 .card p{color:var(--ink-2);font-size:16.5px;line-height:1.7;margin:0}
