@@ -1,0 +1,48 @@
+# 조형도내과의원 (Cho Hyungdo Internal Medicine Clinic)
+
+> 경기도 구리시 교문동(구리역 인근)에 있는 신장내과·혈액투석 인공신장실 의원. 전 병상 독일 Fresenius FMC 5008S 혈액여과투석기로 HDF를 추가 비용 없이 시행하며, 야간투석을 포함해 연중무휴로 인공신장실을 운영한다. 신장내과 전문의(원장 조형도)가 만성콩팥병·고혈압·당뇨 등 내과 진료를 함께 한다. 이용 지역: 구리시 전역, 남양주(다산·도농·별내·퇴계원·진접), 서울 중랑구(망우·상봉·신내·면목).
+
+## 기본 정보
+- 주소: 경기도 구리시 경춘로 163, 구리노블하임오피스텔 4층 (지번: 교문동 245-8) · 위도 37.600976, 경도 127.13351
+- 전화: 진료 문의 031-565-9053 · 인공신장실 직통 031-565-9051~2 · FAX 031-565-9050
+- 진료시간: 월·수·금 09:00–19:00 / 화·목 09:00–17:00 / 토 09:00–13:00 / 점심 13:00–14:00 (오전 접수 12:30 마감)
+- 인공신장실: 총 41병상, 연중무휴(공휴일·명절 포함) 운영. 야간투석은 월·수·금 밤 23:00까지, 시작 시각·병상은 전화 배정.
+- 원장: 조형도 — 한양대학교 의과대학 졸업, 한양대학교병원 내과 수료, 한양대학교병원 내과 외래교수, 신장분과 전문의·신장투석 전문의, 대한내과학회·대한당뇨병학회·대한고혈압학회·대한신장학회 정회원, 미국신장학회 회원, 서울대학교 의료경영고위과정 수료.
+- 진료협력: 서울아산병원 진료협력병원.
+- 교통: 경의중앙선 구리역 인근 · 시내버스 1, 1-4, 10-5, 10-6, 15, 165, 166-1, 167, 167-1번 등 · 건물 주차장
+- 블로그: https://blog.naver.com/chdkdy9053
+
+## 인공신장실 특징
+- 규모: 41병상. 전 병상 동일 장비·개인 모니터.
+- 투석기: 독일 Fresenius(FMC) 5008S 혈액여과투석기 — 전 병상 동일. 2009년 국내 개인의원 최초 전면 도입, 2023년 최신형 전면 교체.
+- 혈액투석여과(HDF): 2010년 1월부터 전 환자에게 추가 비용 없이 시행.
+- 투석용수: 매주 1회 열탕 소독 정수 시스템.
+- 정전 대비: 1시간 이상 무정전 전원장치(UPS).
+- 건체중 측정기(BCM), 원적외선 치료기, 병상별 개인 모니터.
+- 의료진: 신장내과 전문의 상주, 투석 처방 및 고혈압·당뇨 등 동반 질환 진료.
+- 비용: 혈액투석은 건강보험 산정특례(본인부담 10%) 대상, HDF 추가 비용 없음.
+
+## 진료 과목
+- 혈액투석 · 혈액투석여과(HDF) · 야간투석
+- 신장내과: 만성콩팥병, 혈뇨·단백뇨, 사구체여과율 저하, 투석 준비(동정맥루) 상담
+- 내과: 고혈압, 당뇨, 고지혈증, 통풍, 혈액검사, 예방접종(독감·폐렴구균·대상포진·간염), 수액·면역주사, 감기 등
+
+## 주요 페이지
+- 홈: /
+- 병원소개: /about.html · 의료진 소개: /doctors.html · 장비·시설: /facility.html
+- 인공신장실: /dialysis-center.html
+- 혈액투석·HDF: /hemodialysis.html
+- 야간투석: /night-dialysis.html
+- 신장내과·만성콩팥병: /nephrology.html
+- 내과진료(허브): /internal-medicine.html
+  - 고혈압: /hypertension.html · 당뇨병: /diabetes.html · 고지혈증: /dyslipidemia.html · 단백뇨·혈뇨: /proteinuria-hematuria.html · 통풍: /gout.html · 신장질환: /nephrology.html
+- 수액클리닉: /iv-clinic.html · 면역주사(싸이모신알파1): /immune-injection.html
+- 자주 묻는 질문: /faq.html
+- 비급여 진료비용 안내: /nonbenefit.html
+- 진료시간·오시는길: /location.html
+- 지역별 안내: /areas/guri.html (구리시), /areas/namyangju-dasan.html (남양주·다산), /areas/jungnang.html (중랑구)
+- 건강칼럼(17편): /columns/index.html
+  - 투석·인공신장실: /columns/choosing-dialysis-center-guri.html(인공신장실 고르는 기준), /columns/night-dialysis-for-workers.html(야간투석), /columns/hd-vs-hdf.html(혈액투석 vs HDF), /columns/av-fistula-care.html(동정맥루), /columns/dialysis-diet.html(투석 식사), /columns/hepatitis-b-dialysis.html(B형간염·감염관리)
+  - 신장내과: /columns/ckd-stages.html(만성콩팥병 1~5단계), /columns/hematuria-proteinuria.html(혈뇨·단백뇨), /columns/diabetes-hypertension-kidney.html(당뇨·고혈압과 콩팥)
+  - 만성질환: /columns/home-blood-pressure.html(가정혈압·고혈압), /columns/dyslipidemia-kidney.html(고지혈증), /columns/gout-uric-acid.html(통풍·요산), /columns/glp1-kidney.html(위고비·마운자로)
+  - 예방접종·주사: /columns/flu-vaccine-ckd.html(독감), /columns/shingles-vaccine.html(대상포진·싱그릭스), /columns/hepatitis-a-vaccine.html(A형간염), /columns/thymosin-alpha1.html(면역주사 싸이모신알파원), /columns/vitamin-d-injection.html(비타민D 주사)
