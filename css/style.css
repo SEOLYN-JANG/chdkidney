@@ -332,7 +332,7 @@ article.prose{display:block}
 .area-strip a:hover{border-color:var(--blue);box-shadow:var(--shadow);transform:translateY(-2px)}
 .area-strip .ai{position:absolute;left:20px;top:24px;width:36px;height:36px;padding:7px;border-radius:11px;background:var(--blue-soft);color:var(--blue);fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .area-strip strong{display:block;color:var(--navy);font-size:18.5px;margin-bottom:5px}
-.area-strip span{font-size:15px;line-height:1.6;color:var(--muted)}
+.area-strip span{display:block;font-size:15px;line-height:1.6;color:var(--muted)}
 .area-strip em{display:inline-block;font-style:normal;margin-top:11px;padding:4px 13px;border-radius:999px;background:var(--accent-soft);color:var(--accent);font-size:13px;font-weight:700}
 @media (max-width:960px){.area-wrap{grid-template-columns:1fr}}
 
