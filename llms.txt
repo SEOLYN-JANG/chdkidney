@@ -41,7 +41,7 @@
 - 비급여 진료비용 안내: /nonbenefit.html
 - 진료시간·오시는길: /location.html
 - 지역별 안내: /areas/guri.html (구리시), /areas/namyangju-dasan.html (남양주·다산), /areas/jungnang.html (중랑구)
-- 건강칼럼(29편): /columns/index.html
+- 건강칼럼(30편): /columns/index.html
   - 투석·인공신장실: /columns/choosing-dialysis-center-guri.html(인공신장실 고르는 기준), /columns/night-dialysis-for-workers.html(야간투석), /columns/hd-vs-hdf.html(혈액투석 vs HDF), /columns/av-fistula-care.html(동정맥루), /columns/dialysis-diet.html(투석 식사), /columns/hepatitis-b-dialysis.html(B형간염·감염관리), /columns/dialysis-cost.html(투석 비용·산정특례), /columns/dialysis-start-timing.html(투석 시작 시기·eGFR), /columns/pd-vs-hd.html(복막투석 vs 혈액투석), /columns/travel-dialysis.html(여행·명절 임시투석), /columns/dialysis-hypotension.html(투석 중 저혈압·쥐), /columns/dialysis-itching.html(투석 가려움증), /columns/renal-anemia.html(신장성 빈혈·조혈제), /columns/phosphorus-diet.html(인 수치·인결합제)
   - 신장내과: /columns/ckd-stages.html(만성콩팥병 1~5단계), /columns/hematuria-proteinuria.html(혈뇨·단백뇨), /columns/diabetes-hypertension-kidney.html(당뇨·고혈압과 콩팥), /columns/creatinine-egfr.html(크레아티닌·eGFR 해석), /columns/urine-color.html(소변 색·거품), /columns/potassium-diet.html(칼륨·고칼륨혈증 식사), /columns/nephrotoxic-drugs.html(콩팥에 해로운 약)
   - 만성질환: /columns/home-blood-pressure.html(가정혈압·고혈압), /columns/dyslipidemia-kidney.html(고지혈증), /columns/gout-uric-acid.html(통풍·요산), /columns/glp1-kidney.html(위고비·마운자로)
