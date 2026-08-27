@@ -175,9 +175,9 @@ a.hero-card:hover{transform:translateY(-4px);border-color:var(--blue)}
 .section.care .card>.ic:not(.ghost){margin-left:auto;margin-right:auto}
 @media (max-width:900px){.care-deco.d1,.care-deco.d2,.care-deco.d4{display:none}}
 .card.is-link:hover .more{color:var(--accent)}
-.card h3{font-size:21px;margin-bottom:10px}
-.card p{color:var(--ink-2);font-size:16.5px;line-height:1.7;margin:0}
-.card .more{display:inline-flex;align-items:center;gap:6px;margin-top:18px;font-weight:700;color:var(--blue);font-size:15.5px}
+.card h3{font-size:23px;margin-bottom:10px}
+.card p{color:var(--ink-2);font-size:17.5px;line-height:1.72;margin:0}
+.card .more{display:inline-flex;align-items:center;gap:6px;margin-top:18px;font-weight:700;color:var(--blue);font-size:16.5px}
 .card.is-link{cursor:pointer}
 .card.is-link a.cover{position:absolute;inset:0;border-radius:inherit}
 .card-img{padding:0;overflow:hidden}
