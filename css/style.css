@@ -61,6 +61,7 @@ ul,ol{margin:0;padding:0}
 .brand-text{display:flex;flex-direction:column;line-height:1.15}
 .brand-text strong{font-size:21.5px;color:var(--navy);letter-spacing:-.02em;white-space:nowrap}
 .brand-text small{font-size:13px;color:var(--muted);margin-top:3px;white-space:nowrap}
+.brand-text small em{font-style:normal;color:var(--accent);font-weight:800}
 .gnb{display:flex;align-items:center;gap:18px}
 .gnb ul{display:flex;list-style:none;gap:2px}
 .gnb li a{display:block;padding:11px 12px;font-size:16.5px;font-weight:600;color:var(--ink-2);border-radius:8px;position:relative;white-space:nowrap}
