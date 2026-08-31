@@ -539,3 +539,21 @@ article.prose{display:block}
   .quick-nav a{padding:22px 10px 20px;gap:12px}
   .card>.ic.ghost{width:104px;height:104px}
 }
+
+/* 칼럼 클로징 — 함께 보면 좋은 글 + 소개 배너 */
+.col-related{margin-top:36px;padding:16px 20px;background:var(--blue-soft);border-radius:12px;font-size:15.5px;line-height:1.85}
+.col-related strong{color:var(--navy);margin-right:6px}
+.col-related a{color:var(--blue);font-weight:600;text-decoration:underline;text-underline-offset:3px}
+.cc-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:30px 0 16px;text-align:center}
+.cc-stats>div{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px 8px}
+.cc-stats strong{display:block;font-size:21px;color:var(--blue);letter-spacing:-.02em}
+.cc-stats span{font-size:13px;color:var(--muted)}
+.cc-intro{font-size:16.5px;color:var(--ink-2)}
+.cc-cta{background:linear-gradient(135deg,var(--navy),#16386E);color:#fff;border-radius:var(--r-lg);padding:34px 28px;text-align:center;margin-top:18px}
+.cc-cta .cc-eyebrow{display:block;font-size:12px;letter-spacing:.2em;color:#9EC5FF;margin-bottom:10px;text-transform:uppercase}
+.cc-cta h3{color:#fff;font-size:22px;margin:0 0 16px}
+.cc-cta ul{list-style:none;margin:0 0 18px;padding:0;font-size:15.5px;line-height:2.05;color:rgba(255,255,255,.9)}
+.cc-cta li::before{content:"CF";font-size:8px;vertical-align:3px;margin-right:9px;color:var(--accent)}
+.cc-cta .cc-tel{font-size:16.5px;color:rgba(255,255,255,.92);margin:0}
+.cc-cta .cc-tel strong{color:#fff}
+@media (max-width:640px){.cc-stats{grid-template-columns:repeat(2,1fr)}.cc-cta{padding:28px 18px}}
