@@ -584,3 +584,9 @@ article.prose{display:block}
 .u-align-start{align-items:start!important}
 .u-flex-between{display:flex!important;justify-content:space-between!important;align-items:flex-end!important;max-width:none!important;gap:24px!important;flex-wrap:wrap!important}
 .u-cardimg{border-radius:12px!important;aspect-ratio:16/10!important;object-fit:cover!important;width:100%!important;margin-bottom:18px!important}
+
+/* ---- navy contact box: hours mini table ---- */
+.aside-box.contact .hours{margin:12px 0 2px}
+.aside-box.contact .hours li{display:flex;justify-content:space-between;gap:10px;padding:8px 0;border-color:rgba(255,255,255,.14);font-size:14.5px;color:rgba(255,255,255,.82)}
+.aside-box.contact .hours li span:last-child{color:#fff;font-weight:600;font-variant-numeric:tabular-nums}
+.aside-box.contact .hours li:last-child{border:0;padding-bottom:2px}
